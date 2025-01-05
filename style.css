@@ -8,7 +8,7 @@
 /* General body styles */
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #121212; /* Dark background for a professional look */
+    background-color: #001f3d; /* Dark blue background */
     color: white; /* White text for contrast */
     line-height: 1.6;
     padding: 20px;
@@ -16,7 +16,7 @@ body {
 
 /* Header styling */
 header {
-    background-color: #1a1a1a; /* Darker shade of black for the header */
+    background-color: #003366; /* Dark blue for the header */
     color: white;
     padding: 20px;
     text-align: center;
@@ -40,7 +40,7 @@ nav {
 }
 
 nav .button {
-    background-color: #FFCC00; /* Light yellow-orange button color */
+    background-color: #FFCC00; /* Yellow button color */
     color: white;
     border: none;
     padding: 10px 20px;
@@ -52,12 +52,12 @@ nav .button {
 }
 
 nav .button:hover {
-    background-color: #FFA500; /* Slightly darker yellow-orange on hover */
+    background-color: #FFA500; /* Slightly darker yellow on hover */
 }
 
 /* Section styles */
 section {
-    background-color: #1f1f1f; /* Slightly lighter black-gray for sections */
+    background-color: #004080; /* Medium blue for sections */
     padding: 20px;
     margin-bottom: 30px;
     border-radius: 8px;
@@ -66,7 +66,7 @@ section {
 
 /* About section styling */
 #More Information {
-    background-color: #2a2a2a; /* A dark gray background for contrast */
+    background-color: #005A99; /* Lighter blue for contrast */
 }
 
 /* City Map image styles */
@@ -81,7 +81,7 @@ section {
 
 /* Button styling within sections */
 button {
-    background-color: #FFCC00; /* Light yellow-orange color for buttons */
+    background-color: #FFCC00; /* Yellow for buttons */
     color: white;
     padding: 10px 20px;
     margin: 10px;
@@ -93,7 +93,7 @@ button {
 }
 
 button:hover {
-    background-color: #FFA500; /* Slightly darker yellow-orange for hover effect */
+    background-color: #FFA500; /* Slightly darker yellow on hover */
 }
 
 /* Footer styling */
@@ -119,7 +119,7 @@ footer {
 
 /* Section heading styles */
 h2 {
-    color: #FFCC00; /* Light yellow-orange headings */
+    color: #FFCC00; /* Yellow headings */
     margin-bottom: 10px;
     font-size: 1.8em;
 }
@@ -160,21 +160,21 @@ th, td {
 }
 
 th {
-    background-color: #FFCC00; /* Light yellow-orange background for table headers */
+    background-color: #FFCC00; /* Yellow background for table headers */
     color: white;
     font-size: 1.1em;
 }
 
 tr:nth-child(even) {
-    background-color: #2a2a2a; /* Dark gray background for even rows */
+    background-color: #003366; /* Dark blue background for even rows */
 }
 
 tr:nth-child(odd) {
-    background-color: #1f1f1f; /* Slightly lighter gray for odd rows */
+    background-color: #004080; /* Medium blue for odd rows */
 }
 
 tr:hover {
-    background-color: #444; /* Hover effect on rows to highlight them */
+    background-color: #666; /* Darker blue on hover */
 }
 
 td {
